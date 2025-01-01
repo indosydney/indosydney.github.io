@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IndoSydney Running Club</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 01 Jan 2025 05:49:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>/hello-world/</link>
+		
+		<dc:creator><![CDATA[indosydney]]></dc:creator>
+		<pubDate>Tue, 31 Dec 2024 14:24:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[This is our first post! More posts coming soon!]]></description>
+										<content:encoded><![CDATA[
+<p>This is our first post!</p>
+
+
+
+<p>More posts coming soon!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
